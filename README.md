@@ -18,4 +18,4 @@ If you run this code, you need download pre-train parameters of ESM2 model. [Mod
 
 ## ABOUT
 
-Submission in progress, to be updated later
+Submission in progress, to be updated later.
